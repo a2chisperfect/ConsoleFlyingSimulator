@@ -1,0 +1,12 @@
+C:\ШАГ 2015\С#\курсовая\Ready\ConsoleApplication20\bin\Debug\ConsoleApplication20.exe.config
+C:\ШАГ 2015\С#\курсовая\Ready\ConsoleApplication20\bin\Debug\ConsoleApplication20.exe
+C:\ШАГ 2015\С#\курсовая\Ready\ConsoleApplication20\bin\Debug\ConsoleApplication20.pdb
+C:\ШАГ 2015\С#\курсовая\Ready\ConsoleApplication20\obj\Debug\ConsoleApplication20.csprojResolveAssemblyReference.cache
+C:\ШАГ 2015\С#\курсовая\Ready\ConsoleApplication20\obj\Debug\ConsoleApplication20.exe
+C:\ШАГ 2015\С#\курсовая\Ready\ConsoleApplication20\obj\Debug\ConsoleApplication20.pdb
+C:\ШАГ 2015\С#\курсовая\Ready scoreboard\ConsoleApplication20\bin\Debug\ConsoleApplication20.exe.config
+C:\ШАГ 2015\С#\курсовая\Ready scoreboard\ConsoleApplication20\obj\Debug\ConsoleApplication20.exe
+C:\ШАГ 2015\С#\курсовая\Ready scoreboard\ConsoleApplication20\obj\Debug\ConsoleApplication20.pdb
+C:\ШАГ 2015\платформа .Net\С#\курсовая\Ready scoreboard final\ConsoleApplication20\bin\Debug\ConsoleApplication20.exe.config
+C:\ШАГ 2015\платформа .Net\С#\курсовая\Ready scoreboard final\ConsoleApplication20\obj\Debug\ConsoleApplication20.exe
+C:\ШАГ 2015\платформа .Net\С#\курсовая\Ready scoreboard final\ConsoleApplication20\obj\Debug\ConsoleApplication20.pdb
